@@ -2,3 +2,4 @@ pandas
 numpy
 matplotlib
 scipy
+jupyter-server<2.0.0 # https://github.com/jupyterhub/repo2docker/issues/1231
